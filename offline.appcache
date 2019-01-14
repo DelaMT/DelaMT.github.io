@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1547489109
+#1547509826
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -27,11 +27,23 @@ images/gamestate7-sheet0.png
 images/soundon-sheet0.png
 images/sountmuted-sheet0.png
 images/topinfo-sheet0.png
-images/stage1var-sheet0.png
 images/exittomain-sheet0.png
 images/correct-sheet0.png
 images/answers-sheet0.png
 images/continue-sheet0.png
+images/glacbg-sheet0.png
+images/fade-sheet0.png
+images/glacbutton-sheet0.png
+images/glactitle-sheet0.png
+images/info1-sheet0.png
+images/info2-sheet0.png
+images/info3-sheet0.png
+images/next-sheet0.png
+images/previous-sheet0.png
+images/iceagemalta-sheet0.png
+images/sprite-sheet0.png
+images/topinfo2-sheet0.png
+images/question1bg-sheet0.png
 media/applause.m4a
 media/applause.ogg
 media/click.m4a
