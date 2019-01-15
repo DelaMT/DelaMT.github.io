@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1547509826,
+	"version": 1547553747,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,12 @@
 		"images/sprite-sheet0.png",
 		"images/topinfo2-sheet0.png",
 		"images/question1bg-sheet0.png",
+		"images/question2bg-sheet0.png",
+		"images/question3bg-sheet0.png",
+		"images/exposed-sheet0.png",
+		"images/lessexposed-sheet0.png",
+		"images/drier-sheet0.png",
+		"images/wetter-sheet0.png",
 		"media/applause.m4a",
 		"media/applause.ogg",
 		"media/click.m4a",
