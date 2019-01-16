@@ -15,9 +15,9 @@ Release Date    : 16/01/2019 12:00PM GMT+01;
 ---------------------------------------------------------
 Latest Builds   : V.2.0 - V.2.5.5 [BUGGY];
 ---------------------------------------------------------
-Release Build   : V.3.0 [FULL RELEASE];
+Release Build   : V.3.1 [FULL RELEASE];
 =========================================================
-RELEASED V.3.1  : 16/01/2019 13:31:38 GMT+01;
-STABLE RELEASE  : V.3.1;
-Full Website    : TBD;
+RELEASED V.3.1  : 16/01/2019 13:33:38 GMT+01;
+STABLE RELEASE  : V.3.1 [STABLE] [TESTED] [FINAL];
+Full Website    : To be assigned to itch.io;
 =========================================================
